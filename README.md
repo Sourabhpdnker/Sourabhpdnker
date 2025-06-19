@@ -1,18 +1,55 @@
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=SOURABH%20&text2=💻%20Full%20Stack%20Developer&width=900&height=400" alt="Sourabh's Banner">
 
-# Hi! My name is Sourabh
+  <h3>Ambitious developer passionate about building scalable, efficient software faster.</h3>
 
-<h4>A Frontend-Stack developer | MERN Stack</h4>
+  <p>
+    <a href="https://www.linkedin.com/in/soham-sagathiya" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/soham901x" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://soham901.me" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?logo=safari&logoColor=white" alt="Portfolio">
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work 
-- 👯 I’m making the world better by PRs
-- 📫 How to reach me: pedanekarsourabh@gmail.com
-- ⚡ Fun fact: I'm currently studying B.Tech Computer Science
+## Current Focus 🚀
 
-<p align="left"> <a href="https://x.com/SourabhPedanek4?t=fEWh9J-YOMWTX0vhdOuyUQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/SourabhPedanek4?logo=twitter&style=for-the-badge" alt="sourabhpdnker" /></a> </p>
+- Open for remote internships, contracts, and freelance projects
+- 3+ years of freelancing experience building web applications and digital solutions
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </a> </p>
+## Tech Stack 🛠️
 
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> </p>
+<div align="center">
+
+|          Category           |                                                               Technologies                                                                |
+| :-------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|   **🔧 Languages & Core**   |                          <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs" alt="Languages & Core">                           |
+|       **⚙️ Backend**        |                     <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,bun" alt="Backend">                     |
+| **🗄️ Databases & Services** |       <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,supabase,appwrite,prisma" alt="Databases & Services">        |
+|       **🎨 Frontend**       |             <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux,pnpm,jquery" alt="Frontend">              |
+|    **🛠️ DevOps & Tools**    | <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,githubactions,nginx,grafana,prometheus,postman,jest" alt="DevOps & Tools"> |
+
+</div>
+
+<details>
+<summary><h2>📊 Stats</h2></summary>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sourabhpdnker&theme=dark&card_width=500)](https://git.io/streak-stats)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sourabhpdnker&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourabhpdnker&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+</details>
+
+<div align="center">
+
+✨ Thanks for visiting my profile! ✨
+
+</div>
