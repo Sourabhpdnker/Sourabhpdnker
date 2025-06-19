@@ -4,7 +4,7 @@
   <h3>Ambitious developer passionate about building scalable, efficient software faster.</h3>
 
   <p>
-    <a href="linkedin.com/in/sourabh-pedanekar-44b383212" target="_blank">
+    <a href="https://www.linkedin.com/in/sourabh-pedanekar-44b383212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 <!--     <a href="https://twitter.com/soham901x" target="_blank">
